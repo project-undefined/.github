@@ -7,7 +7,7 @@ We are just dropping our useful little projects/code/snippet here that we are us
 
 # Social Media
 
-Discord Server: (https://discord.gg/uJdTzuf7SC)[https://discord.gg/uJdTzuf7SC]
+Discord Server: https://discord.gg/uJdTzuf7SC
 
 # Project Ideas
 
