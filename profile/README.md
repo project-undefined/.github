@@ -1,4 +1,4 @@
-# Hello!, Meet Unnamed!
+# Hello!, Meet Undefined!
 
 Welcome to our small Github "Organization"
 
