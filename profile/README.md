@@ -17,14 +17,15 @@ Please note that this information is not set in stone, it may be modified and ch
 
 Our end goal is to create a security centered OpenBSD competitor, but user freindly enough for the average non-techy user. It will be a micro-kernel based OS (made with rust), for mobile, ARM based devices that is shipped with WEB3 and privacy focused applications (w/ IOTA or another DAG network), with iOS-like finesse and PureOS-like real-convergence.
 
-Not only will the OS include these features, it will remain unbranded and dual-licensed with the noharm (modified) and GNU 3 licenses (to encourage open-source, may be modified or changed later). 
+Not only will the OS include these features, included applications will remain unbranded and dual-licensed with the noharm (modified) and GNU 3 licenses (to encourage open-source, may be modified or changed later). 
 
 # FAQ 
 
 ### What do you mean by unbranded? 
 
-The OS and remaining programs will have no official name, all names used will be generalized (e.x. texting app is just messenger), allowing for maximum creativity and customization. 
-The project as a whole will be called "Project undefined" (so you can at least communicate the project).
+The programs (excluding the official project/OS as a whole) will have no official name/brand, all names used will be generalized (e.x. texting app is just messenger), allowing for maximum creativity and customization. 
+
+The "undefined project" name will pop up in as little places as possible on the actual OS. 
 
 ### Approximately how long will this project take?
 
