@@ -33,7 +33,7 @@ A heck of a long time, that's all the information we can give you, as we are cur
 
 ### Why is the organization named "project undefined"?
 
-To emphasize our lack of branding, it's a feature. 
+To emphasize our lack of application branding, it's a feature. 
 
 ### Are you accepting contributors?
 
