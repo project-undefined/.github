@@ -26,7 +26,7 @@ Not only will the OS include these features, it will remain unbranded and dual-l
 The OS and remaining programs will have no official name, all names used will be generalized (e.x. texting app is just messenger), allowing for maximum creativity and customization. 
 The project as a whole will be called "Project undefined" (so you can at least communicate the project).
 
-### Approximately how long will this project take
+### Approximately how long will this project take?
 
 A heck of a long time, that's all the information we can give you, as we are currently only two programmers with a dream. The team will probably be expanded as the organization develops. 
 
