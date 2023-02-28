@@ -5,7 +5,7 @@ Welcome to our small Github "Organization"
 We are just dropping our useful little projects/code/snippet here that we are using to make a bigger project with! 
 (hopefully it will help someone out) 
 
-Please note that this information is not set in stone, it may be modified and changed later as the organization progresses. 
+Please note that this information is not set in stone, it may be modified and changed later as the organization develops. 
 
 # Social Media
 
