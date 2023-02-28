@@ -9,9 +9,9 @@ Please note that this information is not set in stone, it may be modified and ch
 
 # Social Media
 
-Discord Server: https://discord.gg/uJdTzuf7SC
-Matrix: in progress.
-Mastadon: in progress.
+- Discord Server: https://discord.gg/uJdTzuf7SC
+- Matrix: in progress.
+- Mastadon: in progress.
 
 # Our Vision
 
