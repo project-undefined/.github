@@ -27,7 +27,7 @@ A heck of a long time, that's all the information we can give you, as we are cur
 
 ### Why is the organization named "project undefined"?
 
-To emphasize our lack of application branding, it's a feature. 
+To emphasize customization features, leaving something "null" or "undefined" shows that something needs to be set to the (more techy) users and leaves that up to the users. Yes, it's a far-fetch title, but something like "project mutable" does not sound that catchy. 
 
 ### Are you accepting contributors?
 
