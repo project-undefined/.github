@@ -33,7 +33,7 @@ To emphasize customization features, leaving something "null" or "undefined" sho
 
 Yes, but the process of contributing will be slow for now. We are still developing the requirements/guidelines. 
 
-
-
+# Donate to the developers 
+IOTA address ```iota1qzd8tgz65ttyfvr6rqze3de4nvm73vcet9qpkmwq7nph6k6jd6mh288rw67```
 
 
